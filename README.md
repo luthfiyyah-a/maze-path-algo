@@ -67,7 +67,8 @@ m.run()
     ```
     
 - After install package we can go trough simply generate a maze, you need to create the maze object and then apply the **CreateMaze** function. The last statement will be applying the function **run** to run the simulation. We can put or change the size of the maze just like this :
-![Untitled (1)](https://github.com/luthfiyyah-a/maze-path-algo/assets/79054230/cb9f008d-470b-4fe0-acc7-a2fa76df9f1d)
+
+![Untitled (2)](https://github.com/luthfiyyah-a/maze-path-algo/assets/79054230/94346a82-6774-40b8-bcf7-062b2054c752)
 
 
 ## User Interface (Screenshot output)
