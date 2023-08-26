@@ -68,13 +68,12 @@ m.run()
     
 - After install package we can go trough simply generate a maze, you need to create the maze object and then apply the **CreateMaze** function. The last statement will be applying the function **run** to run the simulation. We can put or change the size of the maze just like this :
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/78385869-3fe3-48f5-b81e-139d9a5ed191/Untitled.png)
+![Untitled (1)](https://github.com/luthfiyyah-a/maze-path-algo/assets/79054230/07f7dd95-3bcf-4f97-a5f5-498bc6041a1d)
 
 ## User Interface (Screenshot output)
 
 From the input above, we can get an output such as:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f9dbdac4-fc01-41a7-a7a2-2082e4ac9737/Untitled.png)
 
 - The top-left cell is the goal of the maze and there are ways we can change the goal to any cell. Moreover, by default, a **Perfect Maze** is generated, which means all cells of the maze are accessible and there is one and only one path from any cell to the goal cell. Therefore any cell can be treated as the start cell and hence is not highlighted. Internally the last cell i.e. the last row and last column cell is set as the start cell. So, the general task will be finding the way from the bottom-right cell to the top-left cell.
 
